@@ -47,10 +47,9 @@ Projetos práticos aplicando:
 
 ## 🤝 Conecte-se comigo
 
-<a href="www.linkedin.com/in/matheus-felis-lino" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+<a href="https://www.linkedin.com/in/matheus-felis-lino/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/> LinkedIn
 </a>
-
 
 ---
 
