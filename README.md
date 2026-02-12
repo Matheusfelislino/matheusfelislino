@@ -1,5 +1,5 @@
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Matheusfelislino&show_icons=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Matheusfelislino&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
 # 👋 Olá, eu sou o Matheus felis Lino
 
@@ -20,7 +20,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheusfelislino&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheusfelislino&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 
 ---
